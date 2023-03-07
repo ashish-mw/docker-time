@@ -1,4 +1,6 @@
-https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
+- https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
+- https://stackoverflow.com/questions/29556879/is-it-possible-change-date-in-docker-container
+- https://gist.github.com/miguelmota/a2c528ed1c2e5e75464a793014ba882e
 
 ```
 # Get container ID
